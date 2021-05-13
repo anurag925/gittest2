@@ -1,0 +1,17 @@
+baknsc
+You
+10:39
+gradle wrapper
+You
+10:40
+unit test execlusing 
+You
+10:42
+java project and web project
+structure
+You
+10:43
+multi project build in gradle
+You
+10:45
+sections of build.gradle
